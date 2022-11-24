@@ -4,7 +4,7 @@
 <img align ="right" alt="coding" width="400" src="https://i.pinimg.com/550x/fa/44/2d/fa442d3d5f5cc68bdcd516282c15e26d.jpg" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dessiey&label=Profile%20views&color=0e75b6&style=flat" alt="dessiey" /> </p>
 
-- 🔭 I’m currently working on [Student Achievement Tracking System](https://github.com/Dessiey/SAT-Ethiopia)
+- 🔭 I’m currently working on [Student Achievement Tracking Application](https://github.com/Dessiey/SAT-Ethiopia)
 
 - 🌱 I’m currently learning **Reactjs, Laravel, Django, R**
 
