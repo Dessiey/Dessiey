@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dessalew Yohannes</h1>
-<h3 align="center">A lecturer and software Developer from Ethiopia</h3>
+<h3 align="center">A software Developer from Ethiopia</h3>
 
 <img align ="right" alt="coding" width="400" src="https://i.pinimg.com/550x/fa/44/2d/fa442d3d5f5cc68bdcd516282c15e26d.jpg" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dessiey&label=Profile%20views&color=0e75b6&style=flat" alt="dessiey" /> </p>
