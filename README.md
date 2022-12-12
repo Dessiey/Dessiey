@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Ethio Telecom CDR data analysis](https://github.com/ephremta/EthioTelecomCDRAnalysis)
 
-- 👨‍💻 All of my projects are available at [https://nonatechrnd.net/](https://nonatechrnd.net/)
+
 
 - 💬 Ask me about **Laravel**
 
